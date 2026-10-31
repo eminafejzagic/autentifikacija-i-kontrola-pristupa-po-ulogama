@@ -1,1 +1,1 @@
-# autentifikacija-i-kontrola-pristupa-po-ulogama
+# Implementacija autentifikacije i kontrole pristupa po ulogama (RBAC)
